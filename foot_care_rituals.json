@@ -1,7 +1,7 @@
 {
   "meta": {
-    "count": 1200,
-    "description": "Procedurally assembled, app-authored foot-care ritual library. Original content \u2014 not sourced from any external site or user submissions.",
+    "count": 30,
+    "description": "Procedurally assembled, app-authored foot-care ritual library. Original content — not sourced from any external site or user submissions.",
     "categories": [
       "Massage",
       "Stretch",
@@ -28,7 +28,7 @@
       "title": "Quick Cuticles Overnight Care",
       "category": "Overnight Care",
       "focus_area": "cuticles",
-      "time_minutes": 4,
+      "time_minutes": 12,
       "ingredients": "shea butter",
       "cadence": "as needed",
       "tip": "Sensitive skin? A fragrance-free version works just as well.",
@@ -39,22 +39,22 @@
         {
           "order": 1,
           "label": "Scrub the cuticles in small circles",
-          "seconds": 60
+          "seconds": 180
         },
         {
           "order": 2,
           "label": "Roll a small ball under the cuticles",
-          "seconds": 45
+          "seconds": 150
         },
         {
           "order": 3,
           "label": "Wrap the cuticles in a warm towel",
-          "seconds": 90
+          "seconds": 240
         },
         {
           "order": 4,
           "label": "Glide shea butter from heel to toe",
-          "seconds": 25
+          "seconds": 150
         }
       ]
     },
@@ -63,7 +63,7 @@
       "title": "Ankle Mobility Ritual for a Tired Ankle",
       "category": "Ankle Mobility",
       "focus_area": "ankle",
-      "time_minutes": 3,
+      "time_minutes": 10,
       "ingredients": "calendula",
       "cadence": "weekly",
       "tip": "Keep a towel nearby to avoid slippery floors afterward.",
@@ -74,22 +74,22 @@
         {
           "order": 1,
           "label": "Apply calendula and press in",
-          "seconds": 30
+          "seconds": 120
         },
         {
           "order": 2,
           "label": "Elevate the ankle against a wall or cushion",
-          "seconds": 60
+          "seconds": 180
         },
         {
           "order": 3,
           "label": "Knead the ankle using knuckles",
-          "seconds": 40
+          "seconds": 150
         },
         {
           "order": 4,
           "label": "Breathe slowly while resting the ankle",
-          "seconds": 30
+          "seconds": 150
         }
       ]
     },
@@ -98,7 +98,7 @@
       "title": "Midday Stretch for the whole foot",
       "category": "Stretch",
       "focus_area": "whole foot",
-      "time_minutes": 3,
+      "time_minutes": 11,
       "ingredients": "lavender oil",
       "cadence": "weekly",
       "tip": "Best done seated somewhere you can fully relax.",
@@ -109,22 +109,22 @@
         {
           "order": 1,
           "label": "Point and flex the foot fully",
-          "seconds": 20
+          "seconds": 90
         },
         {
           "order": 2,
           "label": "Massage the whole foot in slow circles",
-          "seconds": 40
+          "seconds": 180
         },
         {
           "order": 3,
           "label": "Scrub the whole foot in small circles",
-          "seconds": 60
+          "seconds": 200
         },
         {
           "order": 4,
           "label": "Roll a small ball under the whole foot",
-          "seconds": 45
+          "seconds": 190
         }
       ]
     },
@@ -133,7 +133,7 @@
       "title": "Quick Toes Arch Support",
       "category": "Arch Support",
       "focus_area": "toes",
-      "time_minutes": 3,
+      "time_minutes": 9,
       "ingredients": "peppermint oil",
       "cadence": "daily",
       "tip": "Pairs well with calming music or a few slow breaths.",
@@ -144,22 +144,22 @@
         {
           "order": 1,
           "label": "Wrap the toes in a warm towel",
-          "seconds": 90
+          "seconds": 200
         },
         {
           "order": 2,
           "label": "Glide peppermint oil from heel to toe",
-          "seconds": 25
+          "seconds": 120
         },
         {
           "order": 3,
           "label": "Repeat small circles around the toes",
-          "seconds": 20
+          "seconds": 100
         },
         {
           "order": 4,
           "label": "Cup cool water over the toes",
-          "seconds": 30
+          "seconds": 120
         }
       ]
     },
@@ -168,7 +168,7 @@
       "title": "Pre-bed Big toe joint Reset",
       "category": "Recovery",
       "focus_area": "big toe joint",
-      "time_minutes": 2,
+      "time_minutes": 7,
       "ingredients": "eucalyptus",
       "cadence": "daily",
       "tip": "Skip this one right before putting on socks or shoes.",
@@ -179,22 +179,22 @@
         {
           "order": 1,
           "label": "Spread the toes wide and hold",
-          "seconds": 15
+          "seconds": 80
         },
         {
           "order": 2,
           "label": "Warm eucalyptus between palms",
-          "seconds": 10
+          "seconds": 70
         },
         {
           "order": 3,
           "label": "Soak the big toe joint in warm water",
-          "seconds": 90
+          "seconds": 200
         },
         {
           "order": 4,
           "label": "Apply eucalyptus and press in",
-          "seconds": 30
+          "seconds": 120
         }
       ]
     },
@@ -203,10 +203,10 @@
       "title": "Everyday Circulation Boost for the top of the foot",
       "category": "Circulation Boost",
       "focus_area": "top of the foot",
-      "time_minutes": 2,
+      "time_minutes": 6,
       "ingredients": "sugar scrub",
       "cadence": "twice daily",
-      "tip": "A little goes a long way \u2014 start with less than you think.",
+      "tip": "A little goes a long way — start with less than you think.",
       "icon": "favorite",
       "hero_image_url": "https://picsum.photos/seed/soles-ritual-6/800/450",
       "thumbnail_image_url": "https://picsum.photos/seed/soles-ritual-6-thumb/200/200",
@@ -214,22 +214,22 @@
         {
           "order": 1,
           "label": "Press firmly along the top of the foot with both thumbs",
-          "seconds": 35
+          "seconds": 120
         },
         {
           "order": 2,
           "label": "Tap lightly along the top of the foot to wake circulation",
-          "seconds": 20
+          "seconds": 80
         },
         {
           "order": 3,
           "label": "Hold a gentle stretch through the top of the foot",
-          "seconds": 30
+          "seconds": 110
         },
         {
           "order": 4,
           "label": "Spread the toes wide and hold",
-          "seconds": 15
+          "seconds": 70
         }
       ]
     },
@@ -238,7 +238,7 @@
       "title": "Odor Fresh Ritual for a Tired Little toe",
       "category": "Odor Fresh",
       "focus_area": "little toe",
-      "time_minutes": 2,
+      "time_minutes": 8,
       "ingredients": "sea salt",
       "cadence": "pre-bed",
       "tip": "Great as a wind-down before bed.",
@@ -249,22 +249,22 @@
         {
           "order": 1,
           "label": "Knead the little toe using knuckles",
-          "seconds": 40
+          "seconds": 150
         },
         {
           "order": 2,
           "label": "Breathe slowly while resting the little toe",
-          "seconds": 30
+          "seconds": 120
         },
         {
           "order": 3,
           "label": "Point and flex the foot fully",
-          "seconds": 20
+          "seconds": 90
         },
         {
           "order": 4,
           "label": "Massage the little toe in slow circles",
-          "seconds": 40
+          "seconds": 150
         }
       ]
     },
@@ -273,7 +273,7 @@
       "title": "Quick Sole Warming Therapy",
       "category": "Warming Therapy",
       "focus_area": "sole",
-      "time_minutes": 2,
+      "time_minutes": 6,
       "ingredients": "oatmeal",
       "cadence": "pre-bed",
       "tip": "Works well straight after a shower, while skin is warm.",
@@ -284,22 +284,22 @@
         {
           "order": 1,
           "label": "Cup cool water over the sole",
-          "seconds": 30
+          "seconds": 100
         },
         {
           "order": 2,
           "label": "Stretch and flex the sole gently",
-          "seconds": 25
+          "seconds": 90
         },
         {
           "order": 3,
           "label": "Rinse and pat the sole dry",
-          "seconds": 15
+          "seconds": 70
         },
         {
           "order": 4,
           "label": "Press firmly along the sole with both thumbs",
-          "seconds": 35
+          "seconds": 120
         }
       ]
     },
@@ -308,7 +308,7 @@
       "title": "Nail Care Ritual for a Tired Between the toes",
       "category": "Nail Care",
       "focus_area": "between the toes",
-      "time_minutes": 3,
+      "time_minutes": 11,
       "ingredients": "coconut oil",
       "cadence": "daily",
       "tip": "If it's your first time, go gently and shorten the time.",
@@ -319,22 +319,22 @@
         {
           "order": 1,
           "label": "Roll a small ball under the between the toes",
-          "seconds": 45
+          "seconds": 160
         },
         {
           "order": 2,
           "label": "Wrap the between the toes in a warm towel",
-          "seconds": 90
+          "seconds": 240
         },
         {
           "order": 3,
           "label": "Glide coconut oil from heel to toe",
-          "seconds": 25
+          "seconds": 120
         },
         {
           "order": 4,
           "label": "Repeat small circles around the between the toes",
-          "seconds": 20
+          "seconds": 140
         }
       ]
     },
@@ -343,7 +343,7 @@
       "title": "Ankle Mobility: Ball of the foot Focus",
       "category": "Ankle Mobility",
       "focus_area": "ball of the foot",
-      "time_minutes": 2,
+      "time_minutes": 8,
       "ingredients": "tea tree oil",
       "cadence": "post-workout",
       "tip": "Keep nails trimmed beforehand for the best result.",
@@ -354,22 +354,22 @@
         {
           "order": 1,
           "label": "Spread the toes wide and hold",
-          "seconds": 15
+          "seconds": 80
         },
         {
           "order": 2,
           "label": "Warm tea tree oil between palms",
-          "seconds": 10
+          "seconds": 70
         },
         {
           "order": 3,
           "label": "Soak the ball of the foot in warm water",
-          "seconds": 90
+          "seconds": 200
         },
         {
           "order": 4,
           "label": "Apply tea tree oil and press in",
-          "seconds": 30
+          "seconds": 130
         }
       ]
     },
@@ -378,7 +378,7 @@
       "title": "Exfoliation Ritual for a Tired Little toe",
       "category": "Exfoliation",
       "focus_area": "little toe",
-      "time_minutes": 2,
+      "time_minutes": 8,
       "ingredients": "chamomile",
       "cadence": "pre-bed",
       "tip": "Do both feet evenly, even if one feels better than the other.",
@@ -389,22 +389,22 @@
         {
           "order": 1,
           "label": "Spread the toes wide and hold",
-          "seconds": 15
+          "seconds": 80
         },
         {
           "order": 2,
           "label": "Warm chamomile between palms",
-          "seconds": 10
+          "seconds": 70
         },
         {
           "order": 3,
           "label": "Soak the little toe in warm water",
-          "seconds": 90
+          "seconds": 200
         },
         {
           "order": 4,
           "label": "Apply chamomile and press in",
-          "seconds": 30
+          "seconds": 130
         }
       ]
     },
@@ -413,7 +413,7 @@
       "title": "Moisturize Ritual for a Tired Between the toes",
       "category": "Moisturize",
       "focus_area": "between the toes",
-      "time_minutes": 2,
+      "time_minutes": 6,
       "ingredients": "aloe vera",
       "cadence": "as needed",
       "tip": "A cushion under the knee can make this easier to hold.",
@@ -424,22 +424,22 @@
         {
           "order": 1,
           "label": "Cup cool water over the between the toes",
-          "seconds": 30
+          "seconds": 90
         },
         {
           "order": 2,
           "label": "Stretch and flex the between the toes gently",
-          "seconds": 25
+          "seconds": 90
         },
         {
           "order": 3,
           "label": "Rinse and pat the between the toes dry",
-          "seconds": 15
+          "seconds": 70
         },
         {
           "order": 4,
           "label": "Press firmly along the between the toes with both thumbs",
-          "seconds": 35
+          "seconds": 130
         }
       ]
     },
@@ -448,7 +448,7 @@
       "title": "Morning Toe Care for the arch",
       "category": "Toe Care",
       "focus_area": "arch",
-      "time_minutes": 2,
+      "time_minutes": 5,
       "ingredients": "rosemary oil",
       "cadence": "daily",
       "tip": null,
@@ -459,22 +459,22 @@
         {
           "order": 1,
           "label": "Glide rosemary oil from heel to toe",
-          "seconds": 25
+          "seconds": 90
         },
         {
           "order": 2,
           "label": "Repeat small circles around the arch",
-          "seconds": 20
+          "seconds": 80
         },
         {
           "order": 3,
           "label": "Cup cool water over the arch",
-          "seconds": 30
+          "seconds": 100
         },
         {
           "order": 4,
           "label": "Stretch and flex the arch gently",
-          "seconds": 25
+          "seconds": 90
         }
       ]
     },
@@ -483,7 +483,7 @@
       "title": "Evening Ankle Mobility for the arch",
       "category": "Ankle Mobility",
       "focus_area": "arch",
-      "time_minutes": 2,
+      "time_minutes": 8,
       "ingredients": "jojoba oil",
       "cadence": "post-workout",
       "tip": "Sensitive skin? A fragrance-free version works just as well.",
@@ -494,22 +494,22 @@
         {
           "order": 1,
           "label": "Hold a gentle stretch through the arch",
-          "seconds": 30
+          "seconds": 110
         },
         {
           "order": 2,
           "label": "Spread the toes wide and hold",
-          "seconds": 15
+          "seconds": 80
         },
         {
           "order": 3,
           "label": "Warm jojoba oil between palms",
-          "seconds": 10
+          "seconds": 70
         },
         {
           "order": 4,
           "label": "Soak the arch in warm water",
-          "seconds": 90
+          "seconds": 220
         }
       ]
     },
@@ -518,7 +518,7 @@
       "title": "Midday Moisturize for the achilles",
       "category": "Moisturize",
       "focus_area": "achilles",
-      "time_minutes": 2,
+      "time_minutes": 6,
       "ingredients": "cocoa butter",
       "cadence": "pre-bed",
       "tip": "Keep a towel nearby to avoid slippery floors afterward.",
@@ -529,22 +529,22 @@
         {
           "order": 1,
           "label": "Cup cool water over the achilles",
-          "seconds": 30
+          "seconds": 90
         },
         {
           "order": 2,
           "label": "Stretch and flex the achilles gently",
-          "seconds": 25
+          "seconds": 90
         },
         {
           "order": 3,
           "label": "Rinse and pat the achilles dry",
-          "seconds": 15
+          "seconds": 70
         },
         {
           "order": 4,
           "label": "Press firmly along the achilles with both thumbs",
-          "seconds": 35
+          "seconds": 130
         }
       ]
     },
@@ -553,7 +553,7 @@
       "title": "Warming Therapy Ritual for a Tired Sole",
       "category": "Warming Therapy",
       "focus_area": "sole",
-      "time_minutes": 3,
+      "time_minutes": 9,
       "ingredients": "arnica",
       "cadence": "twice weekly",
       "tip": "Best done seated somewhere you can fully relax.",
@@ -564,22 +564,22 @@
         {
           "order": 1,
           "label": "Wrap the sole in a warm towel",
-          "seconds": 90
+          "seconds": 200
         },
         {
           "order": 2,
           "label": "Glide arnica from heel to toe",
-          "seconds": 25
+          "seconds": 120
         },
         {
           "order": 3,
           "label": "Repeat small circles around the sole",
-          "seconds": 20
+          "seconds": 100
         },
         {
           "order": 4,
           "label": "Cup cool water over the sole",
-          "seconds": 30
+          "seconds": 120
         }
       ]
     },
@@ -588,7 +588,7 @@
       "title": "Pre-bed Big toe joint Reset (v2)",
       "category": "Soak",
       "focus_area": "big toe joint",
-      "time_minutes": 2,
+      "time_minutes": 6,
       "ingredients": "magnesium flakes",
       "cadence": "twice daily",
       "tip": "Pairs well with calming music or a few slow breaths.",
@@ -599,22 +599,22 @@
         {
           "order": 1,
           "label": "Press firmly along the big toe joint with both thumbs",
-          "seconds": 35
+          "seconds": 120
         },
         {
           "order": 2,
           "label": "Tap lightly along the big toe joint to wake circulation",
-          "seconds": 20
+          "seconds": 80
         },
         {
           "order": 3,
           "label": "Hold a gentle stretch through the big toe joint",
-          "seconds": 30
+          "seconds": 110
         },
         {
           "order": 4,
           "label": "Spread the toes wide and hold",
-          "seconds": 15
+          "seconds": 70
         }
       ]
     },
@@ -623,7 +623,7 @@
       "title": "Quick Arch Soak",
       "category": "Soak",
       "focus_area": "arch",
-      "time_minutes": 3,
+      "time_minutes": 11,
       "ingredients": "apple cider vinegar",
       "cadence": "post-workout",
       "tip": "Skip this one right before putting on socks or shoes.",
@@ -634,22 +634,22 @@
         {
           "order": 1,
           "label": "Roll a small ball under the arch",
-          "seconds": 45
+          "seconds": 160
         },
         {
           "order": 2,
           "label": "Wrap the arch in a warm towel",
-          "seconds": 90
+          "seconds": 240
         },
         {
           "order": 3,
           "label": "Glide apple cider vinegar from heel to toe",
-          "seconds": 25
+          "seconds": 120
         },
         {
           "order": 4,
           "label": "Repeat small circles around the arch",
-          "seconds": 20
+          "seconds": 140
         }
       ]
     },
@@ -658,10 +658,10 @@
       "title": "Soak Ritual for a Tired Big toe joint",
       "category": "Soak",
       "focus_area": "big toe joint",
-      "time_minutes": 3,
+      "time_minutes": 10,
       "ingredients": "baking soda",
       "cadence": "monthly",
-      "tip": "A little goes a long way \u2014 start with less than you think.",
+      "tip": "A little goes a long way — start with less than you think.",
       "icon": "water_drop",
       "hero_image_url": "https://picsum.photos/seed/soles-ritual-19/800/450",
       "thumbnail_image_url": "https://picsum.photos/seed/soles-ritual-19-thumb/200/200",
@@ -669,22 +669,22 @@
         {
           "order": 1,
           "label": "Apply baking soda and press in",
-          "seconds": 30
+          "seconds": 120
         },
         {
           "order": 2,
           "label": "Elevate the big toe joint against a wall or cushion",
-          "seconds": 60
+          "seconds": 180
         },
         {
           "order": 3,
           "label": "Knead the big toe joint using knuckles",
-          "seconds": 40
+          "seconds": 150
         },
         {
           "order": 4,
           "label": "Breathe slowly while resting the big toe joint",
-          "seconds": 30
+          "seconds": 150
         }
       ]
     },
@@ -693,7 +693,7 @@
       "title": "Quick Big toe joint Moisturize",
       "category": "Moisturize",
       "focus_area": "big toe joint",
-      "time_minutes": 3,
+      "time_minutes": 9,
       "ingredients": "beeswax",
       "cadence": "post-workout",
       "tip": "Great as a wind-down before bed.",
@@ -704,22 +704,22 @@
         {
           "order": 1,
           "label": "Roll a small ball under the big toe joint",
-          "seconds": 45
+          "seconds": 160
         },
         {
           "order": 2,
           "label": "Wrap the big toe joint in a warm towel",
-          "seconds": 90
+          "seconds": 240
         },
         {
           "order": 3,
           "label": "Glide beeswax from heel to toe",
-          "seconds": 25
+          "seconds": 120
         },
         {
           "order": 4,
           "label": "Repeat small circles around the big toe joint",
-          "seconds": 20
+          "seconds": 140
         }
       ]
     },
@@ -728,7 +728,7 @@
       "title": "Moisturize Ritual for a Tired Top of the foot",
       "category": "Moisturize",
       "focus_area": "top of the foot",
-      "time_minutes": 2,
+      "time_minutes": 9,
       "ingredients": "argan oil",
       "cadence": "twice weekly",
       "tip": "Works well straight after a shower, while skin is warm.",
@@ -739,22 +739,22 @@
         {
           "order": 1,
           "label": "Elevate the top of the foot against a wall or cushion",
-          "seconds": 60
+          "seconds": 180
         },
         {
           "order": 2,
           "label": "Knead the top of the foot using knuckles",
-          "seconds": 40
+          "seconds": 150
         },
         {
           "order": 3,
           "label": "Breathe slowly while resting the top of the foot",
-          "seconds": 30
+          "seconds": 120
         },
         {
           "order": 4,
           "label": "Point and flex the foot fully",
-          "seconds": 20
+          "seconds": 90
         }
       ]
     },
@@ -763,7 +763,7 @@
       "title": "Moisturize: Big toe joint Focus",
       "category": "Moisturize",
       "focus_area": "big toe joint",
-      "time_minutes": 2,
+      "time_minutes": 5,
       "ingredients": "almond oil",
       "cadence": "twice weekly",
       "tip": "If it's your first time, go gently and shorten the time.",
@@ -774,22 +774,22 @@
         {
           "order": 1,
           "label": "Repeat small circles around the big toe joint",
-          "seconds": 20
+          "seconds": 80
         },
         {
           "order": 2,
           "label": "Cup cool water over the big toe joint",
-          "seconds": 30
+          "seconds": 100
         },
         {
           "order": 3,
           "label": "Stretch and flex the big toe joint gently",
-          "seconds": 25
+          "seconds": 90
         },
         {
           "order": 4,
           "label": "Rinse and pat the big toe joint dry",
-          "seconds": 15
+          "seconds": 70
         }
       ]
     },
@@ -798,7 +798,7 @@
       "title": "Overnight Care Ritual for a Tired Instep",
       "category": "Overnight Care",
       "focus_area": "instep",
-      "time_minutes": 3,
+      "time_minutes": 10,
       "ingredients": "fresh ginger",
       "cadence": "pre-bed",
       "tip": "Keep nails trimmed beforehand for the best result.",
@@ -809,22 +809,22 @@
         {
           "order": 1,
           "label": "Warm fresh ginger between palms",
-          "seconds": 10
+          "seconds": 70
         },
         {
           "order": 2,
           "label": "Soak the instep in warm water",
-          "seconds": 90
+          "seconds": 220
         },
         {
           "order": 3,
           "label": "Apply fresh ginger and press in",
-          "seconds": 30
+          "seconds": 130
         },
         {
           "order": 4,
           "label": "Elevate the instep against a wall or cushion",
-          "seconds": 60
+          "seconds": 180
         }
       ]
     },
@@ -833,7 +833,7 @@
       "title": "Quick Ball of the foot Cooling Therapy",
       "category": "Cooling Therapy",
       "focus_area": "ball of the foot",
-      "time_minutes": 4,
+      "time_minutes": 13,
       "ingredients": "green tea",
       "cadence": "monthly",
       "tip": "Do both feet evenly, even if one feels better than the other.",
@@ -844,22 +844,22 @@
         {
           "order": 1,
           "label": "Scrub the ball of the foot in small circles",
-          "seconds": 60
+          "seconds": 200
         },
         {
           "order": 2,
           "label": "Roll a small ball under the ball of the foot",
-          "seconds": 45
+          "seconds": 180
         },
         {
           "order": 3,
           "label": "Wrap the ball of the foot in a warm towel",
-          "seconds": 90
+          "seconds": 240
         },
         {
           "order": 4,
           "label": "Glide green tea from heel to toe",
-          "seconds": 25
+          "seconds": 160
         }
       ]
     },
@@ -868,7 +868,7 @@
       "title": "Callus Care Ritual for a Tired Achilles",
       "category": "Callus Care",
       "focus_area": "achilles",
-      "time_minutes": 2,
+      "time_minutes": 6,
       "ingredients": "epsom salt",
       "cadence": "weekly",
       "tip": "A cushion under the knee can make this easier to hold.",
@@ -879,22 +879,22 @@
         {
           "order": 1,
           "label": "Press firmly along the achilles with both thumbs",
-          "seconds": 35
+          "seconds": 120
         },
         {
           "order": 2,
           "label": "Tap lightly along the achilles to wake circulation",
-          "seconds": 20
+          "seconds": 80
         },
         {
           "order": 3,
           "label": "Hold a gentle stretch through the achilles",
-          "seconds": 30
+          "seconds": 110
         },
         {
           "order": 4,
           "label": "Spread the toes wide and hold",
-          "seconds": 15
+          "seconds": 70
         }
       ]
     },
@@ -903,7 +903,7 @@
       "title": "Stretch: Instep Focus",
       "category": "Stretch",
       "focus_area": "instep",
-      "time_minutes": 2,
+      "time_minutes": 8,
       "ingredients": "vitamin E oil",
       "cadence": "daily",
       "tip": null,
@@ -914,22 +914,22 @@
         {
           "order": 1,
           "label": "Knead the instep using knuckles",
-          "seconds": 40
+          "seconds": 150
         },
         {
           "order": 2,
           "label": "Breathe slowly while resting the instep",
-          "seconds": 30
+          "seconds": 120
         },
         {
           "order": 3,
           "label": "Point and flex the foot fully",
-          "seconds": 20
+          "seconds": 90
         },
         {
           "order": 4,
           "label": "Massage the instep in slow circles",
-          "seconds": 40
+          "seconds": 150
         }
       ]
     },
@@ -938,7 +938,7 @@
       "title": "Warming Therapy: Toes Focus",
       "category": "Warming Therapy",
       "focus_area": "toes",
-      "time_minutes": 4,
+      "time_minutes": 12,
       "ingredients": "menthol balm",
       "cadence": "as needed",
       "tip": "Sensitive skin? A fragrance-free version works just as well.",
@@ -949,22 +949,22 @@
         {
           "order": 1,
           "label": "Massage the toes in slow circles",
-          "seconds": 40
+          "seconds": 160
         },
         {
           "order": 2,
           "label": "Scrub the toes in small circles",
-          "seconds": 60
+          "seconds": 200
         },
         {
           "order": 3,
           "label": "Roll a small ball under the toes",
-          "seconds": 45
+          "seconds": 180
         },
         {
           "order": 4,
           "label": "Wrap the toes in a warm towel",
-          "seconds": 90
+          "seconds": 240
         }
       ]
     },
@@ -973,7 +973,7 @@
       "title": "Soak: Between the toes Focus",
       "category": "Soak",
       "focus_area": "between the toes",
-      "time_minutes": 3,
+      "time_minutes": 11,
       "ingredients": "citrus zest",
       "cadence": "post-workout",
       "tip": "Keep a towel nearby to avoid slippery floors afterward.",
@@ -984,22 +984,22 @@
         {
           "order": 1,
           "label": "Roll a small ball under the between the toes",
-          "seconds": 45
+          "seconds": 160
         },
         {
           "order": 2,
           "label": "Wrap the between the toes in a warm towel",
-          "seconds": 90
+          "seconds": 240
         },
         {
           "order": 3,
           "label": "Glide citrus zest from heel to toe",
-          "seconds": 25
+          "seconds": 120
         },
         {
           "order": 4,
           "label": "Repeat small circles around the between the toes",
-          "seconds": 20
+          "seconds": 140
         }
       ]
     },
@@ -1008,7 +1008,7 @@
       "title": "Callus Care: Toes Focus",
       "category": "Callus Care",
       "focus_area": "toes",
-      "time_minutes": 1,
+      "time_minutes": 5,
       "ingredients": "vanilla oil",
       "cadence": "post-workout",
       "tip": "Best done seated somewhere you can fully relax.",
@@ -1019,22 +1019,22 @@
         {
           "order": 1,
           "label": "Tap lightly along the toes to wake circulation",
-          "seconds": 20
+          "seconds": 80
         },
         {
           "order": 2,
           "label": "Hold a gentle stretch through the toes",
-          "seconds": 30
+          "seconds": 110
         },
         {
           "order": 3,
           "label": "Spread the toes wide and hold",
-          "seconds": 15
+          "seconds": 70
         },
         {
           "order": 4,
           "label": "Warm vanilla oil between palms",
-          "seconds": 10
+          "seconds": 60
         }
       ]
     },
@@ -1043,7 +1043,7 @@
       "title": "Everyday Odor Fresh for the achilles",
       "category": "Odor Fresh",
       "focus_area": "achilles",
-      "time_minutes": 2,
+      "time_minutes": 8,
       "ingredients": "sandalwood",
       "cadence": "post-workout",
       "tip": "Pairs well with calming music or a few slow breaths.",
@@ -1054,25 +1054,27 @@
         {
           "order": 1,
           "label": "Spread the toes wide and hold",
-          "seconds": 15
+          "seconds": 80
         },
         {
           "order": 2,
           "label": "Warm sandalwood between palms",
-          "seconds": 10
+          "seconds": 70
         },
         {
           "order": 3,
           "label": "Soak the achilles in warm water",
-          "seconds": 90
+          "seconds": 200
         },
         {
           "order": 4,
           "label": "Apply sandalwood and press in",
-          "seconds": 30
+          "seconds": 130
         }
       ]
-    },
+    }
+  ]
+},
     {
       "id": 31,
       "title": "Callus Care: Toes Focus (v2)",
