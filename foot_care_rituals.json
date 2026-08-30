@@ -33,8 +33,8 @@
       "cadence": "pre-bed",
       "tip": "Sensitive skin? A fragrance-free version works just as well.",
       "icon": "bubble_chart",
-      "hero_image_url": "https://picsum.photos/id/228/800/450",
-      "thumbnail_image_url": "https://picsum.photos/id/51/200/200",
+      "hero_image_url": "https://github.com/nicotroy/datafiles/blob/main/image1.jpeg?raw=true",
+      "thumbnail_image_url": "https://github.com/nicotroy/datafiles/blob/main/image1.jpeg?raw=true",
       "steps": [
         {
           "order": 1,
