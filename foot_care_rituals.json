@@ -28,68 +28,68 @@
       "title": "Quick Cuticles Overnight Care",
       "category": "Overnight Care",
       "focus_area": "cuticles",
-      "time_minutes": 4,
+      "time_minutes": 12,
       "ingredients": "shea butter",
       "cadence": "as needed",
       "tip": "Sensitive skin? A fragrance-free version works just as well.",
       "icon": "bedtime",
       "hero_image_url": "https://picsum.photos/seed/soles-ritual-1/800/450",
       "thumbnail_image_url": "https://picsum.photos/seed/soles-ritual-1-thumb/200/200",
-      "steps": [
+     "steps": [
         {
           "order": 1,
           "label": "Scrub the cuticles in small circles",
-          "seconds": 60
+          "seconds": 180
         },
         {
           "order": 2,
           "label": "Roll a small ball under the cuticles",
-          "seconds": 45
+          "seconds": 150
         },
         {
           "order": 3,
           "label": "Wrap the cuticles in a warm towel",
-          "seconds": 90
+          "seconds": 240
         },
         {
           "order": 4,
           "label": "Glide shea butter from heel to toe",
-          "seconds": 25
+          "seconds": 150
         }
       ]
-    },
+          },
     {
       "id": 2,
       "title": "Ankle Mobility Ritual for a Tired Ankle",
       "category": "Ankle Mobility",
       "focus_area": "ankle",
-      "time_minutes": 3,
+      "time_minutes": 10,
       "ingredients": "calendula",
       "cadence": "weekly",
       "tip": "Keep a towel nearby to avoid slippery floors afterward.",
       "icon": "sync",
       "hero_image_url": "https://picsum.photos/seed/soles-ritual-2/800/450",
       "thumbnail_image_url": "https://picsum.photos/seed/soles-ritual-2-thumb/200/200",
-      "steps": [
+     "steps": [
         {
           "order": 1,
           "label": "Apply calendula and press in",
-          "seconds": 30
+          "seconds": 120
         },
         {
           "order": 2,
           "label": "Elevate the ankle against a wall or cushion",
-          "seconds": 60
+          "seconds": 180
         },
         {
           "order": 3,
           "label": "Knead the ankle using knuckles",
-          "seconds": 40
+          "seconds": 150
         },
         {
           "order": 4,
           "label": "Breathe slowly while resting the ankle",
-          "seconds": 30
+          "seconds": 150
         }
       ]
     },
@@ -98,7 +98,7 @@
       "title": "Midday Stretch for the whole foot",
       "category": "Stretch",
       "focus_area": "whole foot",
-      "time_minutes": 3,
+      "time_minutes": 11,
       "ingredients": "lavender oil",
       "cadence": "weekly",
       "tip": "Best done seated somewhere you can fully relax.",
@@ -109,22 +109,22 @@
         {
           "order": 1,
           "label": "Point and flex the foot fully",
-          "seconds": 20
+          "seconds": 90
         },
         {
           "order": 2,
           "label": "Massage the whole foot in slow circles",
-          "seconds": 40
+          "seconds": 180
         },
         {
           "order": 3,
           "label": "Scrub the whole foot in small circles",
-          "seconds": 60
+          "seconds": 200
         },
         {
           "order": 4,
           "label": "Roll a small ball under the whole foot",
-          "seconds": 45
+          "seconds": 190
         }
       ]
     },
