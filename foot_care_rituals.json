@@ -28,7 +28,7 @@
       "title": "Quick Cuticles Overnight Care",
       "category": "Overnight Care",
       "focus_area": "cuticles",
-      "time_minutes": 12,
+      "time_minutes": 13,
       "ingredients": "shea butter",
       "cadence": "as needed",
       "tip": "Sensitive skin? A fragrance-free version works just as well.",
@@ -54,7 +54,7 @@
         {
           "order": 4,
           "label": "Glide shea butter from heel to toe",
-          "seconds": 150
+          "seconds": 210
         }
       ]
           },
